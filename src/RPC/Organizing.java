@@ -1,3 +1,5 @@
+package RPC;
+
 import java.util.Scanner;
 
 public class Organizing {
